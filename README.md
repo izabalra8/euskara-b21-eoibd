@@ -1,6 +1,6 @@
-# Euskara B2.1 — EOI Barcelona-Drassanes 🇪🇺
+# Euskara B2.1 — EOI Barcelona-Drassanes 
 
-**Offline study app** in a single HTML file for the Basque B2.1 course (EOI Barcelona-Drassanes, teacher: Eñaut Arretxe).
+**Offline study app** in a single HTML file for the Basque B2.1 course (EOI Barcelona-Drassanes).
 
 ## Usage
 
